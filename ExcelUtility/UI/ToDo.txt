@@ -1,0 +1,8 @@
+﻿Filter only excel files in OpenDialogs,SaveFileDialogs
+Export ResultSet
+UnitTest
+InlineDocumentation
+Handle null validations in MainController
+Code refactor and regen
+Remove hardcoded filetype in ViewGridController
+Performance

@@ -1,0 +1,13 @@
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\ExcelUtility.dll
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\ExcelUtility.pdb
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\obj\Debug\ExcelUtility.csproj.CoreCompileInputs.cache
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\obj\Debug\ExcelUtility.dll
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\obj\Debug\ExcelUtility.pdb
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\ClosedXML.dll
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\ExcelNumberFormat.dll
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\FastMember.Signed.dll
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\ClosedXML.xml
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\DocumentFormat.OpenXml.xml
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\bin\Debug\ExcelNumberFormat.xml
+D:\Code\ExcelUtility\ExcelUtility\ExcelUtility\obj\Debug\ExcelUtility.csproj.CopyComplete
